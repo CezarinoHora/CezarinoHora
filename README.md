@@ -17,7 +17,7 @@ Lifelong learning na veia!!!
 
 Aqui estão alguns dos projetos que tenho trabalhado:
 
-### [DashboardExcel_Xbox]([https://github.com/CezarinoHora/DashboardExcel_Xbox])
+### [DashboardExcel_Xbox](https://github.com/CezarinoHora/DashboardExcel_Xbox)
 
 Este repositório contém um exercício prático de dashboard desenvolvido em Excel, abordando técnicas e recursos aprendidos durante BootCamp Heineken - Inteligência Artificial Aplicada a Dados com Copilot da DIO. O dashboard tem como foco apresentar visualmente e de maneira intuitiva dados relacionados à venda de assinaturas do serviço Xbox Game Pass.
 
