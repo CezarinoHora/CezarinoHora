@@ -17,11 +17,11 @@ Lifelong learning na veia!!!
 
 Aqui estão alguns dos projetos que tenho trabalhado:
 
-### [IFMT](https://github.com/CezarinoHora/IFMT)
+### [DashboardExcel_Xbox]([https://github.com/CezarinoHora/DashboardExcel_Xbox])
 
-Repositório contendo arquivos e projetos desenvolvidos durante meu curso de Tecnologia em Sistemas para Internet no IFMT.
+Este repositório contém um exercício prático de dashboard desenvolvido em Excel, abordando técnicas e recursos aprendidos durante BootCamp Heineken - Inteligência Artificial Aplicada a Dados com Copilot da DIO. O dashboard tem como foco apresentar visualmente e de maneira intuitiva dados relacionados à venda de assinaturas do serviço Xbox Game Pass.
 
-**Tecnologias:** HTML
+**Tecnologias:** Excel
 
 ### [PortfolioEnzo](https://github.com/CezarinoHora/PortfolioEnzo)
 
