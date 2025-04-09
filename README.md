@@ -23,18 +23,22 @@ Este repositório contém um exercício prático de dashboard desenvolvido em Ex
 
 **Tecnologias:** Excel
 
-### [PortfolioEnzo](https://github.com/CezarinoHora/PortfolioEnzo)
+### [immobile](https://github.com/CezarinoHora/immobile.git)
 
-Projeto de uma página de portfólio desenvolvida para o Enzo, utilizando técnicas modernas de desenvolvimento web.
+PROJETO – App de GERENCIAMENTO DE LOCAÇÃO DE IMÓVEIS - VERSÃO 01
+TECNOLOGIAS UTILIZADAS: PYTHON, DJANGO, BOOTSTRAP, HTML, CSS
+DISCIPLINA: PROGRAMAÇAO BACK-END
+Curso: TSI – Tecnologia em Sistemas para Internet - IFMT 2025
+ALUNO: CEZARINO MARTINS DA HORA
+PROFESSOR: ALBERTO SALES E SILVA
 
-**Tecnologias:** HTML
+**Tecnologias:** PYTHON, DJANGO, BOOTSTRAP, HTML, CSS
 
-### [Bootstrap_Teste](https://github.com/CezarinoHora/Bootstrap_Teste)
+### [linux-projeto1-iac](https://github.com/CezarinoHora/linux-projeto1-iac)
 
-Páginas HTML utilizando recursos do Bootstrap para criação de layouts responsivos e modernos.
+Repositório para os arquivos de script do projeto do curso de Linux - Infra Estrutura como Código IAC Curso da DIO - Santander - Linux para Iniciantes
 
-**Tecnologias:** HTML, Bootstrap
-
+**Tecnologias:** LINUX, IAC
 
 
 ## 🌐 Conecte-se Comigo
